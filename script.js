@@ -78,9 +78,6 @@ btnCloseElement.addEventListener('click', ()=> {
 
 
 let mensajes = [
-  "Por otro lado siento que entre nosotros empezó un silencio que poco a poco ha ido llenando el espacio que antes compartíamos. Me pregunto si tú también lo has sentido, ese enfriamiento entre nosotros, y si quizás en algún momento te preguntaste lo mismo que yo. ¿Qué pasó?",
-  "Posiblemente mis palabras no tengan mucho sentido ahora, pero no puedo ignorar lo mucho que te estoy extrañando. Extraño tu presencia, pasar tiempo y esa calidez de estar contigo. Si alguna vez te lastime con algo que hice, lo lamento mucho, no tenia esa intención.",
-  'No pretendo buscar respuestas inmediatas. Solo quería expresar lo que llevo dentro, y decirte que, a pesar del silencio o el tiempo, valoro todos los momentos compartidos.<br>"Te esperaré hasta donde tú me lo permitas porque en serio quiero que seas tú y nadie más"',
   "De: Mi<br>Para: Tú"
 ]
 
@@ -114,7 +111,7 @@ const volumePercentage = 20;
 audio.volume = volumePercentage / 100;
 
 
-const startTime = 144;
+const startTime = 0;
 
 audio.currentTime = startTime;
 
