@@ -113,7 +113,7 @@ const volumePercentage = 20;
 audio.volume = volumePercentage / 100;
 
 
-const startTime = 230;
+const startTime = 23;
 
 audio.currentTime = startTime;
 
