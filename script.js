@@ -78,7 +78,8 @@ btnCloseElement.addEventListener('click', ()=> {
 
 
 let mensajes = [
-  "De: Mi<br>Para: Tú"
+  "Voy a cuidar de ti y tu de mi hasta llegar a viejitos 🤭jeje. Este 14 de febrero te invito a pasarla conmigo  y poder seguir creando bonitos recuerdos, comiendo unas ricas piernas del KFC y una película ❤ No estamos en caminos separados, tu eres mi camino y siempre serás mi camino",
+  "Te amo mucho mi psicóloga favorita <br>Atentamente: tu paciente favorito 😂🤭"
 ]
 
 
@@ -88,7 +89,7 @@ buttonNext.addEventListener('click', () => {
     mainMessageElement.innerHTML = mensajes[mensajeIndex];
 
 
-    if (mensajes[mensajeIndex] === "De: Mi<br>Para: Tú") {
+    if (mensajes[mensajeIndex] === "Te amo mucho mi psicóloga favorita <br>Atentamente: tu paciente favorito 😂🤭") {
       mainMessageElement.style.display = "flex";
       mainMessageElement.style.justifyContent = "center";
       mainMessageElement.style.alignItems = "center";
