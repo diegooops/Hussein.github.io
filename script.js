@@ -79,6 +79,7 @@ btnCloseElement.addEventListener('click', ()=> {
 
 let mensajes = [
   "Voy a cuidar de ti y tu de mi hasta llegar a viejitos 🤭jeje. Este 14 de febrero te invito a pasarla conmigo  y poder seguir creando bonitos recuerdos, comiendo unas ricas piernas del KFC y una película ❤ No estamos en caminos separados, tu eres mi camino y siempre serás mi camino",
+  "Siempre e creído en ti y siempre me has llenado de orgullo, eres un ejemplo a seguir y estoy muy feliz de que seas mi enamorada, nuestros hijos no solo saldrán larguito, sinó inteligentes y bella como tú 🤭❤ Te mando un fuerte abrazo desde aquí hasta el lugar donde estas y un besote en tu frentecita.",
   "Te amo mucho mi psicóloga favorita <br>Atentamente: tu paciente favorito 😂🤭"
 ]
 
